@@ -13,7 +13,7 @@ My work focuses on bridging the gap between theoretical physics and numerical si
 I'm currently working with the **CGM Research Group** on **Modified Gravity** (specifically **Polymer Quantum Mechanics (PQM)**), 
 developing numerical frameworks to study quantum gravity effects in Schwarzschild and Kerr spacetimes.
 
-📫 **How to reach me:** [corrado.marzano1739@gmail.com](mailto:corrado.marzano1739@gmail.com)
+📫 **How to reach me:** [corrado.marzano1739@gmail.com](mailto:corrado.marzano1739@gmail.com) | [Linkedin](https://www.linkedin.com/in/corrado-marzano-7846353a8/)
 
 <!--
 **corradomarzano/corradomarzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
