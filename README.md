@@ -10,7 +10,7 @@ My work focuses on bridging the gap between theoretical physics and numerical si
 - **Analysis:** ODE integration, FFT Signal Processing, Statistical Modeling.
 
 ### 🔬 Current Research
-I'm currently working with the **CGM Research Group** on **Polymer Quantum Mechanics (PQM)**, 
+I'm currently working with the **CGM Research Group** on **Modified Gravity** (specifically **Polymer Quantum Mechanics (PQM)**), 
 developing numerical frameworks to study quantum gravity effects in Schwarzschild and Kerr spacetimes.
 
 📫 **How to reach me:** [corrado.marzano1739@gmail.com](mailto:corrado.marzano1739@gmail.com)
