@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Corrado! 🌌
+
+I am a **Computational Astrophysicist** specialized in General Relativity and Modified Gravity. 
+My work focuses on bridging the gap between theoretical physics and numerical simulations.
+
+### 🛠 Technical Toolbox
+- **Programming:** Python (Expert), C/C++, Fortran, Bash.
+- **Scientific Stack:** NumPy, SciPy, Matplotlib, SymPy, Plotly.
+- **HPC & Simulation:** MPI, OpenMP, Gadget-4.
+- **Analysis:** ODE integration, FFT Signal Processing, Statistical Modeling.
+
+### 🔬 Current Research
+I'm currently working with the **CGM Research Group** on **Polymer Quantum Mechanics (PQM)**, 
+developing numerical frameworks to study quantum gravity effects in Schwarzschild and Kerr spacetimes.
+
+📫 **How to reach me:** [corrado.marzano1739@gmail.com](mailto:corrado.marzano1739@gmail.com)
 
 <!--
 **corradomarzano/corradomarzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
