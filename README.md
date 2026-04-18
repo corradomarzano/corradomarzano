@@ -1,4 +1,5 @@
 # Hi there, I'm Corrado! 🌌
+[Leggi in Italiano (IT)](LEGGIMI.md) | [Read in English (EN)](README.md)
 
 I am a **Computational Astrophysicist** specialized in General Relativity and Modified Gravity. 
 My work focuses on bridging the gap between theoretical physics and numerical simulations.
