@@ -1,3 +1,5 @@
+[Read in English (EN)](#-hi-there-im-corrado-) | [Leggi in Italiano (IT)](#-ciao-sono-corrado-)
+
 # [🇪🇳] Hi there, I'm Corrado! 🌌
 
 I am a **Computational Astrophysicist** specialized in General Relativity and Modified Gravity. 
