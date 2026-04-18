@@ -12,7 +12,7 @@ My work focuses on bridging the gap between theoretical physics and high-perform
 - **Analysis:** ODE integration, FFT Signal Processing, Statistical Modeling.
 
 ### 🔬 Current Research
-I'm currently working with the **CGM Research Group** on **Modified Gravity** (specifically **Polymer Quantum Mechanics (PQM)**), 
+I'm currently working with the [**CGM Research Group**](https://sites.google.com/view/cgm-research-group-montani/people/corrado-marzano) on **Modified Gravity** (specifically **Polymer Quantum Mechanics (PQM)**), 
 developing numerical frameworks to study quantum gravity effects in Schwarzschild and Kerr spacetimes.
 
 📫 **How to reach me:** [corrado.marzano1739@gmail.com](mailto:corrado.marzano1739@gmail.com) | [Linkedin](https://www.linkedin.com/in/corrado-marzano-7846353a8/)
@@ -31,7 +31,7 @@ Il mio lavoro si concentra sul colmare il divario tra la fisica teorica e le sim
 - **Analisi e Metodi:** Integrazione di ODE, Signal Processing (FFT), Modellazione Statistica.
 
 ### 🔬 Ricerca Attuale
-Attualmente collaboro con il **Gruppo di Ricerca CGM** nell'ambito della **Gravità Modificata** (nello specifico **Polymer Quantum Mechanics - PQM**), 
+Attualmente collaboro con il [**Gruppo di Ricerca CGM**](https://sites.google.com/view/cgm-research-group-montani/people/corrado-marzano) nell'ambito della **Gravità Modificata** (nello specifico **Polymer Quantum Mechanics - PQM**), 
 sviluppando framework numerici per lo studio degli effetti della gravità quantistica negli spaziotempi di Schwarzschild e Kerr.
 
 📫 **Contatti:** [corrado.marzano1739@gmail.com](mailto:corrado.marzano1739@gmail.com) | [Linkedin](https://www.linkedin.com/in/corrado-marzano-7846353a8/)
